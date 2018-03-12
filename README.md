@@ -6,3 +6,4 @@ We resolved this coflict!
 Hello again!
 Edited again with master branch!
 We resolved the conflict again!
+And here we go again!
